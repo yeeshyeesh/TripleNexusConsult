@@ -4,7 +4,11 @@ project:
 
 website:
   title: "TripleNexusConsult"
+
+  favicon: img/favicon-32x32.png
   navbar:
+    pinned: true
+    logo: /img/TripleNexus.png
     left:
       - href: index.qmd
         text: Home
