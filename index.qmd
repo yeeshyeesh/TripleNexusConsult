@@ -1,7 +1,33 @@
 ---
-title: "TripleNexusConsult"
+title: "Ada Ichoja Ohaba"
+image: img/AdaIchojaOhaba.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ada-ichoja-ohaba-52237a72/?original_referer=https%3A%2F%2Fwww.google.com%2F
+    - text: Email
+      href: mailto:tripplenexusconsult@gmail.com
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Introduction**
+
+Thank you for visiting my professional profile. My name is Ada Ichoja Ohaba, and I am pleased to connect with you.
+
+**Education**
+
+- **Master of Science in Social Work**  
+  University of Jos
+
+- **Bachelor of Science in Social Work**  
+  University of Jos
+
+**Professional Experience**
+
+- **Executive Director**  
+  Tripple Nexus Consult
+
