@@ -9,25 +9,41 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/ada-ichoja-ohaba-52237a72/?original_referer=https%3A%2F%2Fwww.google.com%2F
+      target: _blank
     - text: Email
       href: mailto:tripplenexusconsult@gmail.com
 ---
 
 
-**Introduction**
 
-Thank you for visiting my professional profile. My name is Ada Ichoja Ohaba, and I am pleased to connect with you.
 
-**Education**
+### Ada Ichoja Ohaba
 
-- **Master of Science in Social Work**  
-  University of Jos
+**Hi there!**  
+I am a social worker and development expert with over 14 years of experience in peacebuilding, conflict transformation, and health systems strengthening.
 
-- **Bachelor of Science in Social Work**  
-  University of Jos
+#### Education
+- **MSc in Social Work** (2022) | University of Jos, Jos, Nigeria
+- **BSc in Social Work** (2008) | University of Jos, Jos, Nigeria
+- **Diploma in Law (DIL)** (2005) | University of Jos, Jos, Nigeria
 
-**Professional Experience**
+#### Experience
+- **Executive Director** (Jan 2024 - Present) | Triple Nexus Consult
+  - Provided counseling services and conducted training on trauma-informed care.
+  - Rendered advisory expertise and supported clients through psychological challenges.
 
-- **Executive Director**  
-  Tripple Nexus Consult
+- **Research Assistant** (Feb 2024) | International Alert
+  - Conducted interviews and focus groups to understand perceptions of the police force in Mangu LGA.
+
+- **Training Consultant** (Various Dates) | Multiple Organizations (International Alert, Oxfam Nigeria, Plateau State Peace Building Agency)
+  - Trained community stakeholders on peacebuilding, conflict sensitivity, early warning, and gender-based violence.
+
+- **Country Coordinator** (2017 - 2020) | Do-No-Harm Humanitarian Development Initiative
+  - Managed programs across Nigeria, mainstreaming gender and conflict sensitivity principles.
+
+- **Output Manager** (2014 - 2017) | Justice Development and Peace Caritas
+  - Led community peacebuilding initiatives and trained stakeholders in conflict prevention and mediation.
+
+- **Volunteer Health Promotion Representative** (2010 - 2012) | Pro-Health International Nigeria
+  - Led health promotion projects, including HIV testing and distribution of mosquito nets.
 
