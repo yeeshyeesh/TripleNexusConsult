@@ -16,8 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [yeti, custom.scss]
     toc: true
     page-layout: full
 
